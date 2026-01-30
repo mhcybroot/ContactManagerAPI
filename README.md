@@ -26,10 +26,12 @@ Entity Structure(Book):
 - Category (String) (work, school, family, client, etc.)
 
 - Creation Date (LocalDateTime)
+
+  
 https://cdn.ostad.app/public/upload/2025-11-04T10-17-30.036Z-Screenshot_35.png
 
 http://cdn.ostad.app/public/upload/2025-11-04T10-17-56.535Z-Screenshot_36.png
 
-
 Example curl commands:
+
 https://cdn.ostad.app/public/upload/2025-11-04T10-22-06.210Z-Screenshot_37.png
